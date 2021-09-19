@@ -1,4 +1,4 @@
-shopping_list = ["milk", "eggs", "bread", "rice"]
+shopping_list = ["milk", "eggs", "bread", "coffee", "juice", "water"]
 
 item_to_find = input("Item to find: ").casefold()  # input item to find
 found_at = None
